@@ -23,7 +23,7 @@ As tecnologias com qual tenho mais experiência:
 </div> 
 
 
-Minhas experiências:
+O que estou aprendendo:
 
 #### -> Estudando desenvolvimento Web, no momento mais especificamente Bootstrap e ReactJS. Estou estudando tais tecnologias por meio do curso JSFullStack, ministrado por OneBitCode;
 
