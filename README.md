@@ -18,7 +18,7 @@ Olá! Sou mais um apaixonado por tech, especialmente pelo desenvolvimento de sof
 As tecnologias com qual tenho mais experiência:
 <div align="center">
 
-<img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" width=50><img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" width=50>  <img src="https://logospng.org/download/javascript/logo-javascript-1024.png" width=50> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width = "50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" width = "50">
+<img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" width=50><img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" width=50>  <img src="https://logospng.org/download/javascript/logo-javascript-1024.png" width=50> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width = "50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" width = "50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="50 ">
 
 </div> 
 
