@@ -25,7 +25,7 @@ As tecnologias com qual tenho mais experiência:
 
 O que estou aprendendo:
 
-#### -> Estudando desenvolvimento Web, no momento mais especificamente Bootstrap e ReactJS. Estou estudando tais tecnologias por meio do curso JSFullStack, ministrado por OneBitCode;
+#### -> Estudando desenvolvimento Web, no momento mais especificamente TypeScript. Estou estudando tais tecnologias por meio do curso JSFullStack, ministrado por OneBitCode;
 
 #### -> Tenho menor experiência com as linguagens: Python, Java e C;
 
