@@ -1,9 +1,10 @@
 # Enzo Bozzani 👨‍💻
 
 
-## Bem vindo, Dev!
+## Welcome, Dev!
 
-Olá! Sou mais um apaixonado por tech, especialmente pelo desenvolvimento de softwares. Tenho 19 anos, moro em Santos/SP e atualmente curso Ciência da Computação no Centro Universitário FEI. Meu foco na programação é o desenvolvimento Web, trabalhando principalmente com JavaScript!
+Hey! 👋 I'm a 19-year-old tech enthusiast, totally into software development. I live in Santos, SP (Brazil), and I'm studying Computer Science at Centro Universitário FEI (university) while diving into Web Development at OneBitCode (online course). As I mentioned, my main focus right now is Web Development because I'm super stoked about working in this field. If you've got any suggestions, feel free to hit me up! I appreciate any help. Thanks!
+
 
 
 <div align="center">
@@ -13,9 +14,9 @@ Olá! Sou mais um apaixonado por tech, especialmente pelo desenvolvimento de sof
 </div>
 
 
-## 💻 Tecnologias e Experiências
+## 💻 Technologies and Experience
 
-As tecnologias com qual tenho mais experiência:
+The technologies I have the most experience with:
 <div align="center">
 
 <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" width=50><img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" width=50>  <img src="https://logospng.org/download/javascript/logo-javascript-1024.png" width=50> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width = "50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" width = "50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="50 "><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="50 ">
@@ -23,13 +24,13 @@ As tecnologias com qual tenho mais experiência:
 </div> 
 
 
-O que estou aprendendo:
+Learning at the moment:
 
-#### -> Estudando desenvolvimento Web, no momento mais especificamente React. Estou estudando tal tecnologia por meio do curso JSFullStack, ministrado por OneBitCode;
+#### -> Studying Web Development, currently focusing on React. I'm learning this technology through the JSFullStack course taught by OneBitCode;
 
-#### -> Tenho também certa experiência com as linguagens: Python, Java e C (linguagens estudadas na faculdade);
+#### -> I also have some experience with Python (Matplotlib, Pandas), C and Java. I studied this programming languages in university;
 
-#### -> Para entrar em contato, só chamar pelo <a href="https://www.instagram.com/enzobozzani/">Instagram</a> ou <a href="https://twitter.com/enzobozzani">Twitter</a>. Para mais informações profissionais, meu <a href="https://www.linkedin.com/in/enzo-bozzani-812a7322a/">Linkedin</a>.
+#### -> To get in touch: <a href="https://www.instagram.com/enzobozzani/">Instagram</a> or <a href="https://twitter.com/enzobozzani">Twitter</a>. For more professional info, my <a href="https://www.linkedin.com/in/enzo-bozzani-812a7322a/">Linkedin</a>.
 <br>
 <br>
 <div>
