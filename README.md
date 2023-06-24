@@ -19,14 +19,14 @@ Hey! 👋 I'm a 19-year-old tech enthusiast, totally into software development. 
 The technologies I have the most experience with:
 <div align="center">
 
-<img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" width=50><img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" width=50>  <img src="https://logospng.org/download/javascript/logo-javascript-1024.png" width=50> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width = "50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" width = "50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="50 "><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="50 ">
+<img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" width=50><img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" width=50>  <img src="https://logospng.org/download/javascript/logo-javascript-1024.png" width=50> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width = "50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" width = "50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="50 "><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="50 "><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50 ">
 
 </div> 
 
 
 Learning at the moment:
 
-#### -> Studying Web Development, currently focusing on React. I'm learning this technology through the JSFullStack course taught by OneBitCode;
+#### -> Studying Web Development, currently focusing on NodeJS and Databases. I'm learning this technology through the JSFullStack course taught by OneBitCode;
 
 #### -> I also have some experience with Python (Matplotlib, Pandas), C and Java. I studied this programming languages in university;
 
