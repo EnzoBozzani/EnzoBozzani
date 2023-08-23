@@ -32,7 +32,6 @@ Learning at the moment:
 #### -> I also have some experience with Python (Matplotlib, Pandas), C and Java. I studied this programming languages in university;
 
 #### -> To get in touch: <a href="https://www.instagram.com/enzobozzani/">Instagram</a> or <a href="https://twitter.com/enzobozzani">Twitter</a>. For more professional info, my <a href="https://www.linkedin.com/in/enzo-bozzani-812a7322a/">Linkedin</a>.
-<br
 <br>
 <div>
 <a href="https://instagram.com/enzobozzani/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
