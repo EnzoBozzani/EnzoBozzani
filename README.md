@@ -24,10 +24,7 @@ The technologies I have the most experience with:
 
 </div> 
 
-
-Learning at the moment:
-
-#### -> Studying Web Development, currently focusing on NodeJS and Databases. I'm learning this technology through the JSFullStack course taught by OneBitCode;
+#### -> Currently working at FEI as FrontEnd Developer in CADFEI Project, using React, TypeScript & Redux;
 
 #### -> I also have some experience with Python (Matplotlib, Pandas), C and Java. I studied this programming languages in university;
 
