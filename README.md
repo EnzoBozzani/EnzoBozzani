@@ -24,7 +24,7 @@ The technologies I have the most experience with:
 
 </div> 
 
-#### -> Currently working at FEI as FrontEnd Developer in CADFEI Project, using React, TypeScript & Redux;
+#### -> Currently working at FEI as FrontEnd Developer in CADFEI (using React, TypeScript & Redux) and focused on studying development with C# and .NET;
 
 #### -> I also have some experience with Python (Matplotlib, Pandas), C and Java. I studied this programming languages in university;
 
