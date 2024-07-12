@@ -21,10 +21,10 @@ The technologies I have the most experience with:
 
 <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" width=50><img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" width=50>  <img src="https://logospng.org/download/javascript/logo-javascript-1024.png" width=50> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width = "50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" width = "50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="50 "><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="50 "><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50 "> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="70 ">
 <img src="https://repvue.imgix.net/a9yxc48y3ay5dm2udzwizc2bdyph" width="50"> <img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png" width="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="100">
+<img src="https://media.licdn.com/dms/image/D4D12AQEfpm1hZiEN6Q/article-cover_image-shrink_720_1280/0/1673639331003?e=2147483647&v=beta&t=y-2SK0tAKIhMI4adSJ-kODboj4OUznZgWe95jOdHoww" width="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" width="50">
 
 </div> 
-
-#### -> Currently working at FEI as FrontEnd Developer in CADFEI (using React, TypeScript & Redux) and focused on studying development with C# and .NET;
 
 #### -> I also have some experience with Python (Matplotlib, Pandas), C and Java. I studied this programming languages in university;
 
