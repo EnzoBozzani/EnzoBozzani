@@ -3,7 +3,7 @@
 
 ## Welcome, Dev!
 
-Hey! 👋 I'm a 20-year-old tech enthusiast, totally into software development. I live in Santos, SP (Brazil), and I'm studying Computer Science at Centro Universitário FEI (university). Currently, I work as a FrontEnd Developer using React and TypeScript in the development of the institutional website for the teaching career at FEI. If you've got any suggestions, feel free to hit me up! I appreciate any help. Thanks!
+Hey! 👋 I'm a 20-year-old tech enthusiast, totally into software development. I'm studying Computer Science at Centro Universitário FEI (university). If you've got any suggestions, feel free to hit me up! I appreciate any help. Thanks!
 
 
 
