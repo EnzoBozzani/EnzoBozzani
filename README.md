@@ -3,7 +3,7 @@
 
 ## Welcome, Dev!
 
-Hey! 👋 I'm a 20-year-old tech enthusiast, totally into software development. I'm studying Computer Science at Centro Universitário FEI (university). If you've got any suggestions, feel free to hit me up! I appreciate any help. Thanks!
+Hey! 👋 I'm a 20-year-old tech enthusiast, totally into software development. I'm a software developer intern at IBM and I'm studying Computer Science at Centro Universitário FEI (university). If you've got any suggestions, feel free to hit me up! I appreciate any help. Thanks!
 
 
 
@@ -16,22 +16,12 @@ Hey! 👋 I'm a 20-year-old tech enthusiast, totally into software development. 
 
 ## 💻 Technologies and Experience
 
-The technologies I have the most experience with:
-<div align="center">
+#### -> My main focus circles around JS environment, specially TypeScript, React, NextJS and NodeJS. 
+#### -> I also have some experience with Python and C#.
 
-<img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" width=50><img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" width=50>  <img src="https://logospng.org/download/javascript/logo-javascript-1024.png" width=50> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width = "50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" width = "50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="50 "><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="50 "><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50 "> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="70 ">
-<img src="https://repvue.imgix.net/a9yxc48y3ay5dm2udzwizc2bdyph" width="50"> <img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png" width="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="100">
-<img src="https://media.licdn.com/dms/image/D4D12AQEfpm1hZiEN6Q/article-cover_image-shrink_720_1280/0/1673639331003?e=2147483647&v=beta&t=y-2SK0tAKIhMI4adSJ-kODboj4OUznZgWe95jOdHoww" width="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" width="50">
-
-</div> 
-
-#### -> I also have some experience with Python (Matplotlib, Pandas), C and Java. I studied this programming languages in university;
-
-#### -> To get in touch: <a href="https://www.instagram.com/enzobozzani/">Instagram</a> or <a href="https://twitter.com/enzobozzani">Twitter</a>. For more professional info, my <a href="https://www.linkedin.com/in/enzo-bozzani-812a7322a/">Linkedin</a>.
+#### -> To get in touch: bozzanienzo@gmail.com. For more professional info, my <a href="https://www.linkedin.com/in/enzo-bozzani-812a7322a/">Linkedin</a>.
 <br>
 <div>
-<a href="https://instagram.com/enzobozzani/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:bozzanienzo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/enzo-bozzani-812a7322a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
