@@ -16,8 +16,8 @@ Hey! 👋 I'm a 20-year-old tech enthusiast, totally into software development. 
 
 ## 💻 Technologies and Experience
 
-#### -> My main focus circles around Machine Learning (with Python) and Web Development (with Python and JS environment, specially TypeScript, React, NextJS and NodeJS). 
-#### -> I also have some experience with backend development using C# and Dotnet.
+#### -> My main focus circles around Python and JS environment, specially TypeScript, React, NextJS and NodeJS. 
+#### -> I also have some experience with C# and Dotnet.
 
 #### -> To get in touch: bozzanienzo@gmail.com. For more professional info, my <a href="https://www.linkedin.com/in/enzo-bozzani-812a7322a/">Linkedin</a>.
 <br>
