@@ -3,7 +3,7 @@
 
 ## Welcome, Dev!
 
-Hey! 👋 I'm a 20-year-old tech enthusiast, totally into software development. I'm a software developer intern at IBM and I'm studying Computer Science at University Center of FEI. If you've got any suggestions, feel free to hit me up! I appreciate any help. Thanks!
+Hey! 👋 I'm a tech enthusiast, totally into software development. I'm a software developer intern at IBM and I'm studying Computer Science at University Center of FEI. If you've got any suggestions, feel free to hit me up! I appreciate any help. Thanks!
 
 
 
