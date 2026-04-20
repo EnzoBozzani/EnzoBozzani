@@ -3,8 +3,7 @@
 
 ## Welcome, Dev!
 
-Hey! 👋 I'm a tech enthusiast, totally into software development. I'm a software developer intern at IBM and I'm studying Computer Science at University Center of FEI. If you've got any suggestions, feel free to hit me up! I appreciate any help. Thanks!
-
+Hey! 👋 I'm a tech enthusiast, totally into software development. I'm a Software Engineer at BTG Pactual and I hold a degree in Computer Science from University Center of FEI. If you've got any suggestions, feel free to hit me up! I appreciate any help. Thanks!
 
 
 <div align="center">
@@ -12,12 +11,6 @@ Hey! 👋 I'm a tech enthusiast, totally into software development. I'm a softwa
 <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width=400>
 
 </div>
-
-
-## 💻 Technologies and Experience
-
-#### -> My main focus circles around Python and JS environment, specially TypeScript, React, NextJS and NodeJS. 
-#### -> I also have some experience with C# and Dotnet.
 
 #### -> To get in touch: bozzanienzo@gmail.com. For more professional info, my <a href="https://www.linkedin.com/in/enzo-bozzani-812a7322a/">Linkedin</a>.
 <br>
